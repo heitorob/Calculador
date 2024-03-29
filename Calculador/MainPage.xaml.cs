@@ -60,6 +60,41 @@
         {
 
         }
+
+        private void num1_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void num2_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void num3_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void somar_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void num0_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void ponto_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void igual_Clicked(System.Object sender, System.EventArgs e)
+        {
+
+        }
     }
 
 }
